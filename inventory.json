@@ -1,0 +1,200 @@
+[
+    {
+        "id": 1,
+        "title": "Organic vegatables",
+        "name": "vegatables",
+        "description": "9,646,500+ Vegetables Stock",
+        "quantity": 100,
+        "price": 10.99,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxSKQNwZ1BHZhqeV_Cd9gMuf9fiYVl_w1o9TEch6h2&s"
+    },
+    {
+        "id": 2,
+        "title": "Potato, Tomato",
+        "name": "vegatables",
+        "description": "9,646,500+ Vegetables Stock",
+        "quantity": 100,
+        "price": 10.99,
+        "image_url": "https://www.allaboutgardening.com/wp-content/uploads/2021/09/Can-You-Grow-Potatoes-and-Tomatoes.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Onion leaves, Gralic leaves",
+        "name": "vegatables",
+        "description": "9,646,500+ Vegetables Stock",
+        "quantity": 100,
+        "price": 10.99,
+        "image_url": "https://3.bp.blogspot.com/-27dGvgD-bho/UO942uJcKPI/AAAAAAAAQmw/61FaTbKrNdM/s1600/1-1-IMG_1315.JPG"
+    },
+    {
+        "id": 4,
+        "title": "Varities Of Fruits",
+        "name": "fruits",
+        "description": "Healthy Fruit stock in market",
+        "quantity": 200,
+        "price": 9.99,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1JhOlAAL-kKCblMRepfZ1OcoOo6dVlstSclfhokb68w&s"
+    },
+    {
+        "id": 5,
+        "title": "Natural Shampoo and Creams",
+        "name": "comstice products",
+        "description": "356,900+ Beauty Products Illustrations, Royalty-Free Vector Graphics & Clip Art - iStock | Skin care, Makeup, Cosmetics",
+        "quantity": 300,
+        "price": 13.99,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtp1M-K6ZffoKwIiuXWoHl1LHzWaMe-zlt5A&usqp=CAU"
+    },
+    {
+        "id": 6,
+        "title": "Cream, Foundation",
+        "name": "comstice products",
+        "description": "356,900+ Beauty Products Illustrations, Royalty-Free Vector Graphics & Clip Art - iStock | Skin care, Makeup, Cosmetics",
+        "quantity": 300,
+        "price": 13.99,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaolTChaV04ClH6WdkkTQPUzbgRkgrhwsJrg&usqp=CAU"
+    },
+    {
+        "id": 7,
+        "title": "Brush, kajal",
+        "name": "comstice products",
+        "description": "356,900+ Beauty Products Illustrations, Royalty-Free Vector Graphics & Clip Art - iStock | Skin care, Makeup, Cosmetics",
+        "quantity": 300,
+        "price": 13.99,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAf7aksOAMhWsxbmSgCXwB9pzXsu9P3UAAMw&usqp=CAU"
+    },
+    {
+        "id": 8,
+        "title": "Nepali, English Novel",
+        "name": "books",
+        "description": "19,640 Stack Of Books",
+        "quantity": 5,
+        "price": 15.99,
+        "image_url": "https://img.theculturetrip.com/wp-content/uploads/2018/10/20180911_110549.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Small Cookies",
+        "name": "biscuits",
+        "description": "A Variety Of Biscuits Stock",
+        "quantity": 5,
+        "price": 30.99,
+        "image_url": "https://static.toiimg.com/photo/88698517.cms"
+    },
+    {
+        "id": 10,
+        "title": "Digestive",
+        "name": "biscuits",
+        "description": "A Variety Of Biscuits Stock",
+        "quantity": 5,
+        "price": 30.99,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOCmborRW-aaJ80rlQ0LhQQ6Co3m0pneKMHw&usqp=CAU"
+    },
+    {
+        "id": 11,
+        "title": "Testy",
+        "name": "biscuits",
+        "description": "A Variety Of Biscuits Stock",
+        "quantity": 5,
+        "price": 30.99,
+        "image_url": "https://kwalitynepal.com/wp-content/uploads/2022/01/tasty-3.png"
+    },
+    {
+        "id": 12,
+        "title": "Cookies",
+        "name": "biscuits",
+        "description": "A Variety Of Biscuits Stock",
+        "quantity": 5,
+        "price": 30.99,
+        "image_url": "https://belairstore.com/wp-content/uploads/2022/10/8410376006551.webp"
+    },
+    {
+        "id": 13,
+        "title": "Sugar Free",
+        "name": "chocolates",
+        "description": "Luxury Sugar Free Chocolate",
+        "quantity": 5,
+        "price": 20.99,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnAsbnEX21Yhk6hPa6tikKoC77V1FPJrjfbA&usqp=CAU"
+    },
+    {
+        "id": 14,
+        "title": "Dark Chocolates",
+        "name": "chocolates",
+        "description": "Luxury Sugar Free Chocolate",
+        "quantity": 5,
+        "price": 20.99,
+        "image_url": "https://static-01.daraz.com.np/p/44ec48274775929596fdea98f545d236.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Sugar Free Chocolates",
+        "name": "chocolates",
+        "description": "Luxury Sugar Free Chocolate",
+        "quantity": 5,
+        "price": 20.99,
+        "image_url": "https://d161wrq7muokn7.cloudfront.net/images/product/500.500/Amul-Sugar-Free-Choocolates.jpg"
+    },
+    {
+        "id": 16,
+        "title": "DairyMilk",
+        "name": "chocolates",
+        "description": "Luxury Sugar Free Chocolate",
+        "quantity": 5,
+        "price": 20.99,
+        "image_url": "https://image.choicemandu.com/cache/catalog/products/gamers-gift-card-nepal/bubbly-silk-600x315.jpg"
+    },
+    {
+        "id": 17,
+        "title": "Power glasses",
+        "name": "glasses",
+        "description": "The best places to buy prescription glasses online in 2023",
+        "quantity": 10,
+        "price": 22.99,
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/glasses-group-2.jpg?c=16x9"
+    },
+    {
+        "id": 18,
+        "title": "Normal glasses",
+        "name": "glasses",
+        "description": "The best places to buy prescription glasses online in 2023",
+        "quantity": 10,
+        "price": 22.99,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Uu8QgnouNF_TKMuGOdXmhJqtEiTD0yjYVg&usqp=CAU"
+    },
+    {
+        "id": 19,
+        "title": "Black glasses",
+        "name": "glasses",
+        "description": "The best places to buy prescription glasses online in 2023",
+        "quantity": 10,
+        "price": 22.99,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROzVklRtTmEiQQAJ36YjFbPRZrzS3_V3NEZw&usqp=CAU"
+    },
+    {
+        "id": 20,
+        "title": "Rice Makhan",
+        "name": "makhan",
+        "description": "Makhan Preminum Mansuli Rice 25 Kg",
+        "quantity": 9,
+        "price": 30.99,
+        "image_url": "https://www.wholesalepasalplus.com/uploads/product/makhkhan_25kg.jpg"
+    },
+    {
+        "id": 21,
+        "title": "Rice Mansuli",
+        "name": "Mansuli rice",
+        "description": "Best for everyday consumption,Lots of health beneficial facts,cholesterol,saturated fatGood source of folate, vitamin B",
+        "quantity": 15,
+        "price": 20.66,
+        "image_url": "https://static-01.daraz.com.np/p/d6a3640c020623c461b54d7482848949.jpg_720x720.jpg_.webp"
+    },
+    {
+        "id": 22,
+        "title": "Brown rice",
+        "name": "broen rice",
+        "description": "Superior quality, excellent in taste and rich in nutrients.",
+        "quantity": 5,
+        "price": 40.50,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-L8UDHeZ9gr99T7VLZ57npZtT8GcNbJfyrQ&usqp=CAU"
+    }
+]
